@@ -86,7 +86,8 @@ Spotify-Clone/
 ## 🖼️ Screenshots
 
 ### 🎵 Home Page
-file:///C:/Users/athar/OneDrive/Pictures/Screenshots/Screenshot%202025-01-02%20113645.png
+
+![Screenshot 2025-01-02 113645](https://github.com/user-attachments/assets/e0fe65ad-0ca1-4ac9-b4a9-7c3e90781d50)
 
 
 ### 🎷 Music Player

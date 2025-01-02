@@ -6,7 +6,8 @@ Welcome to the **Spotify Frontend Clone** project! 🚀 This project replicates 
 
 ## 📸 Preview
 
-![Uploading Screenshot 2025-01-02 113645.png…]()
+![Screenshot 2025-01-02 113645](https://github.com/user-attachments/assets/39e79c8c-6436-44c9-a1c1-df33c2770f99)
+
 
 
 > A visually stunning frontend design that mimics Spotify's interface for music lovers!
